@@ -1,0 +1,10 @@
+-r requirements.txt
+ipdb
+rope
+flake8
+pep8-naming
+mccabe
+pytest
+pytest-watch
+yapf
+zest.releaser
