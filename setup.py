@@ -20,7 +20,7 @@ with open('HISTORY.rst', 'r', encoding='utf-8') as hist_file:
 
 setup(
     name='vehicle-makes',
-    version='0-1.0.dev0',
+    version='0.1.0.dev0',
     packages=find_packages('src', exclude=('tests', )),
     package_dir={'': 'src'},
     include_package_data=True,
