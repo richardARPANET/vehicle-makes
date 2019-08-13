@@ -1,10 +1,10 @@
 -r requirements.txt
-ipdb
-rope
-flake8
-pep8-naming
-mccabe
-pytest
-pytest-watch
-yapf
-zest.releaser
+ipdb==0.12.2
+rope==0.14.0
+flake8==3.7.8
+pep8-naming==0.8.2
+mccabe==0.6.1
+pytest==5.0.1
+pytest-watch==4.2.0
+yapf==0.28.0
+zest.releaser==6.19.0
