@@ -2,7 +2,7 @@
 Please direct issues and pull requests there.
 
 vehicle-makes
-=======
+=============
 
 |PyPI| |Python Versions| |Build Status|
 
